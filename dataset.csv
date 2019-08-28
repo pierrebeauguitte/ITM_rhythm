@@ -1,0 +1,501 @@
+index,file,type,link
+1,000-1-01JigsP22HauntedHouse.mp3,jig,
+2,001-1-02JigsP22MyDarlingAsleep.mp3,jig,
+3,002-1-03JigsP22ClubCeili.mp3,jig,
+4,003-1-04PolkasP39LittleDiamondPolka.mp3,polka,
+5,004-1-05PolkasP39MurroePolka.mp3,polka,
+6,005-1-06PolkasP39MaidOfArdath.mp3,polka,
+7,006-1-07ReelsP6BoyneHunt.mp3,reel,
+8,007-1-08ReelsP6ShannonBreeze.mp3,reel,
+9,008-1-09ReelsP6RedHairedLass.mp3,reel,
+10,009-1-10JigsP19HumoursOfGlendart.mp3,jig,
+11,010-1-11JigsP19SaddleThePony.mp3,jig,
+12,011-1-12JigsP19TobinsFavourite.mp3,jig,
+13,012-1-13ReelsP18TullaReel.mp3,reel,
+14,013-1-14ReelsP18Skylark.mp3,reel,
+15,014-1-15ReelsP18RoaringMary.mp3,reel,
+16,015-1-16SlidesP35BrosnaSlide.mp3,slide,
+17,016-1-17SlidesP35OKeefes.mp3,slide,
+18,017-1-18SlidesP35DennisMurphys.mp3,slide,
+19,018-1-19ReelsP4MaidBehindTheBar.mp3,reel,
+20,019-1-20ReelsP4Kilmaley.mp3,reel,
+21,020-1-21ReelsP4GreenMountain.mp3,reel,
+22,021-1-22PolkasP37BritchesFullOfStiches.mp3,polka,
+23,022-1-23PolkasP37ArmaghPolka.mp3,polka,
+24,023-1-24PolkasP37BallydesmondNo3.mp3,polka,
+25,024-1-25JigsP20GeeseInTheBog.mp3,jig,
+26,025-1-26JigsP20ConnachtmansRambles.mp3,jig,
+27,026-1-27JigsP20OutOnTheOcean.mp3,jig,
+28,027-1-28ReelsP14MissMcCleod.mp3,reel,
+29,028-1-29ReelsP14MerryBlacksmith.mp3,reel,
+30,029-1-30ReelsP14SallyGardens.mp3,reel,
+31,030-1-31JigsP21JerrysBeaverHat.mp3,jig,
+32,031-1-32JigsP21KeshJig.mp3,jig,
+33,032-1-33JigsP21RamblingPitchfork.mp3,jig,
+34,033-1-34MazurkasP41SonnysMazurka.mp3,mazurka,
+35,034-1-35MazurkasP41ShoeTheDonkey.mp3,mazurka,
+36,035-1-36RellsP10JackieColemans.mp3,reel,
+37,036-1-37RellsP10MountainRoad.mp3,reel,
+38,037-1-38RellsP10CreggsPipes.mp3,reel,
+39,038-1-39JigsP26QueenOfTheFair.mp3,jig,
+40,039-1-40JigsP26PayTheReckoning.mp3,jig,
+41,040-1-41JigsP26CarraroeJig.mp3,jig,
+42,041-1-42ReelsP17Sheehans.mp3,reel,
+43,042-1-43ReelsP17Cameronian.mp3,reel,
+44,043-1-44ReelsP17Foxhunters.mp3,reel,
+45,044-1-45JigsP25LarkInTheMorning.mp3,jig,
+46,045-1-46JigsP25HumoursOfEnnistymon.mp3,jig,
+47,046-1-47JigsP25WanderingMinstrel.mp3,jig,
+48,047-1-48HornpipesP34BoysOfBluehill.mp3,hornpipe,
+49,048-1-49HornpipesP34CorkHornpipe.mp3,hornpipe,
+50,049-1-50HornpipesP34CroninsHonepipe.mp3,hornpipe,
+51,050-1-51ReelsP16EarlsChair.mp3,reel,
+52,051-1-52ReelsP16TimMaloneys.mp3,reel,
+53,052-1-53ReelsP16ShipAreSailing.mp3,reel,
+54,053-1-54WaltzP42BelltableWaltz.mp3,waltz,
+55,054-1-55JigsP30TripToAthlone.mp3,jig,
+56,055-1-56JigsP30LangstromsPony.mp3,jig,
+57,056-1-57JigsP30SackowsJig.mp3,jig,
+58,057-2-01ReelsP5ConcertinaReel.mp3,reel,
+59,058-2-02ReelsP5ComeWestAlongTheRoad.mp3,reel,
+60,059-2-03ReelsP5Andersons.mp3,reel,
+61,060-2-04JigsP28BrendanTonras.mp3,jig,
+62,061-2-05JigsP28Kilavil.mp3,jig,
+63,062-2-06JigsP28ShipInFullSail.mp3,jig,
+64,063-2-07PolkasP36BallydesmondNo2.mp3,polka,
+65,064-2-08PolkasP36BallydesmondNo1.mp3,polka,
+66,065-2-09PolkasP36PegRyans.mp3,polka,
+67,066-2-10ReelsP9SilverSpear.mp3,reel,
+68,067-2-11ReelsP9FatherKellys.mp3,reel,
+69,068-2-12ReelsP9MissMonaghan.mp3,reel,
+70,069-2-13JigsP23JimWards.mp3,jig,
+71,070-2-14JigsP23BlarneyPilgrim.mp3,jig,
+72,071-2-15JigsP23CookInTheKitchen.mp3,jig,
+73,072-2-16HornpipesP33SonnyMurrays.mp3,hornpipe,
+74,073-2-17HornpipesP33HomeRoler.mp3,hornpipe,
+75,074-2-18HornpipesP33KittysWedding.mp3,hornpipe,
+76,075-2-19AirP42TabhairDomDoLamh.mp3,waltz,
+77,076-2-20ReelsP11JoeCooleys.mp3,reel,
+78,077-2-21ReelsP11WiseMaid.mp3,reel,
+79,078-2-22ReelsP11BirdInTheBush.mp3,reel,
+80,079-2-23JigsP29DustyWindowsills.mp3,jig,
+81,080-2-24JigsP29CliffsOfMoher.mp3,jig,
+82,081-2-25JigsP29RoseInTheHeather.mp3,jig,
+83,082-2-26MazurkasP40JohnDohertysMazurka.mp3,mazurka,
+84,083-2-27MazurkasP40VincentCampbells.mp3,mazurka,
+85,084-2-28ReelsP13DrowsieMaggie.mp3,reel,
+86,085-2-29ReelsP13GlassOfBeer.mp3,reel,
+87,086-2-30ReelsP13TossTheFeathers(Em).mp3,reel,
+88,087-2-31ReelsP13TossTheFeathers(D).mp3,reel,
+89,088-2-32JigsP31MorningLark.mp3,jig,
+90,089-2-34JigsP31TomBillys.mp3,jig,
+91,090-2-35SingleJigP42LongNote.mp3,slide,
+92,091-2-36ReelsP12Teetotaller.mp3,reel,
+93,092-2-37ReelsP12StAnnes.mp3,reel,
+94,093-2-38ReelsP12LondonLasses.mp3,reel,
+95,094-2-39JigsP27KidOnTheMountain.mp3,slip jig,
+96,095-2-40JigsP27JimMorrisons.mp3,jig,
+97,096-2-41JigsP27LeitrimJig.mp3,jig,
+98,097-2-42ReelsP8BankOfIreland.mp3,reel,
+99,098-2-43ReelsP8WomanOfTheHouse.mp3,reel,
+100,099-2-44ReelsP8KerryReel.mp3,reel,
+101,100-2-45JigsP24LiltingBanshee.mp3,jig,
+102,101-2-46JigsP24HasteToTheWedding.mp3,jig,
+103,102-2-47JigsP24MaidOnTheGreen.mp3,jig,
+104,103-2-48ReelsP7OverTheMoorToMaggie.mp3,reel,
+105,104-2-49ReelsP7LadyAnnMontgomery.mp3,reel,
+106,105-2-50ReelsP7MaudeMillar.mp3,reel,
+107,106-2-51JigsP32TheFrostIsAllOver.mp3,jig,
+108,107-2-52JigsP32TheEavesdropper.mp3,jig,
+109,108-2-53JigsP32SixpennyMoney.mp3,jig,
+110,109-2-54PolkasP38SweeneysPolka.mp3,polka,
+111,110-2-55PolkasP38DennisMurphys.mp3,polka,
+112,111-2-56PolkasP38MaggieInTheWood.mp3,polka,
+113,112-2-57ReelsP15Salamanca.mp3,reel,
+114,113-2-58ReelsP15Banshee.mp3,reel,
+115,114-2-59ReelsP15SailorsBonnet.mp3,reel,
+116,115-1-01GarrettBarrysJig.mp3,jig,
+117,116-1-02MichaelHynes.mp3,jig,
+118,"117-1-03BoysoftheTown,the.mp3",jig,
+119,118-1-04SailorontheRock.mp3,reel,
+120,"119-1-05HaresPaw,the.mp3",reel,
+121,120-1-06SonnyBanks.mp3,reel,
+122,"121-1-07KerryJig,the.mp3",jig,
+123,122-1-08LadOBeirenes.mp3,jig,
+124,"123-1-09BushontheHill,the.mp3",jig,
+125,124-1-10JennyPickingCockles.mp3,reel,
+126,125-1-11JennysWedding.mp3,reel,
+127,126-1-12JennysChickens.mp3,reel,
+128,127-1-13TarRoadtoSLigo.mp3,jig,
+129,"128-1-14MaidintheMedow,the.mp3",jig,
+130,129-1-15BehindtheHaystack.mp3,jig,
+131,130-1-16RyansSlipJig.mp3,slip jig,
+132,131-1-17DropsofBrandy(KeyofG).mp3,slip jig,
+133,"132-1-18Foxhunt,the.mp3",slip jig,
+134,133-1-19OldKilfenoraJig.mp3,jig,
+135,"134-1-20HoleintheHedge,the.mp3",jig,
+136,135-1-21FlowersoftheBurren.mp3,jig,
+137,136-1-22MemoriesofBallymote.mp3,polka,
+138,137-1-23GurteenCross.mp3,polka,
+139,138-1-24WavesofTory.mp3,polka,
+140,139-1-25CupofTea.mp3,reel,
+141,"140-1-26NewCopperplate,the.mp3",reel,
+142,"141-1-27OldCopperplate,the.mp3",reel,
+143,"142-1-28TongsbytheFire,the.mp3",jig,
+144,143-1-29StriketheGayHarp.mp3,jig,
+145,144-1-30WillieColemans.mp3,jig,
+146,145-1-31DonegalReel.mp3,reel,
+147,"146-1-32PeelersJacket,the.mp3",reel,
+148,147-1-33TriptoDurrow.mp3,reel,
+149,148-1-34OCallaghans.mp3,hornpipe,
+150,149-1-35PlainsofBoyle.mp3,hornpipe,
+151,150-1-36RightsofMan.mp3,hornpipe,
+152,151-1-37MaidsofMountCisco.mp3,reel,
+153,152-1-38SligoMaid.mp3,reel,
+154,153-1-39SwallowsTail.mp3,reel,
+155,154-1-40BillCollinsJig.mp3,jig,
+156,"155-1-41KilimoveeJig,the.mp3",jig,
+157,"156-1-42Cobbler,the.mp3",jig,
+158,157-1-43KittyDoneaMilking.mp3,reel,
+159,158-1-44CollegeCroves.mp3,reel,
+160,159-1-45GreenFieldsofAmerica.mp3,reel,
+161,160-1-46JacksonsMorningBreeze.mp3,jig,
+162,161-1-47ChristyBarrysNo1.mp3,jig,
+163,162-1-48ChristyBarrysNo2.mp3,jig,
+164,163-1-49SwingingontheGate.mp3,reel,
+165,"164-1-50TinkersDaughter,the.mp3",reel,
+166,"165-1-51HuntersHouse,the.mp3",reel,
+167,"166-1-52LuckPenny,the.mp3",jig,
+168,167-1-53PipeontheHobNo1.mp3,jig,
+169,168-1-54PipeontheHobNo2.mp3,jig,
+170,169-2-01ConnemaraStockings.mp3,reel,
+171,170-2-02JImMcCormicks.mp3,reel,
+172,171-2-03TheClougherReel.mp3,reel,
+173,172-2-04StarAboveTheGarter.mp3,slide,
+174,173-2-05JohnMickeysSlide.mp3,slide,
+175,174-2-06DingleRegetta.mp3,slide,
+176,175-2-07HealthToTheLadies.mp3,jig,
+177,176-2-08TheRambler.mp3,jig,
+178,177-2-09WhenSickIsItTae.mp3,jig,
+179,178-2-10MartinWynnesNo1.mp3,reel,
+180,179-2-11MartinWynnesNo2.mp3,reel,
+181,180-2-12MartinWynnesNo3.mp3,reel,
+182,181-2-13BrianBorusMarch.mp3,waltz,
+183,182-2-14StoneOfDestiny.mp3,reel,
+184,183-2-15ChicagoReel.mp3,reel,
+185,184-2-16CastleKelly.mp3,reel,
+186,185-2-17HumoursOfBallyconnell.mp3,reel,
+187,186-2-18TheLiltingFisherman.mp3,jig,
+188,187-2-19TellHerIAm.mp3,jig,
+189,188-2-20GoingToTheWellForWater.mp3,jig,
+190,189-2-21TerryTeelans.mp3,polka,
+191,190-2-22JohnEgans.mp3,polka,
+192,191-2-23JohnWalshs.mp3,polka,
+193,192-2-24ShaskeenReel.mp3,reel,
+194,193-2-25MyLoveIsInAmerica.mp3,reel,
+195,194-2-26TomWardsDownfall.mp3,reel,
+196,195-2-27PaddysReturn.mp3,jig,
+197,196-2-28KilfenoraJigNo2.mp3,jig,
+198,197-2-29KilfenoraJigNo3.mp3,jig,
+199,198-2-30TraversReel.mp3,reel,
+200,199-2-31BucksOfOranmore.mp3,reel,
+201,200-2-32DukeOfLeinster.mp3,reel,
+202,201-2-33TheBatteringRam.mp3,jig,
+203,202-2-34HumoursOfDrinagh.mp3,jig,
+204,203-2-35GilliansApples.mp3,jig,
+205,204-2-36NewPoliceman.mp3,reel,
+206,205-2-37LadOBeirnes.mp3,reel,
+207,206-2-38WindThatShakesTheBarley.mp3,reel,
+208,207-2-39LucyFarrsBarndance.mp3,barndance,
+209,208-2-40StackOfBarley.mp3,barndance,
+210,209-2-41SomeSayTheDevilIsDead.mp3,barndance,
+211,210-2-42Cronins(SpeedThePlough).mp3,reel,
+212,211-2-43TommyPeoples.mp3,reel,
+213,212-2-44GalteeRangers.mp3,reel,
+214,213-2-45OffToCalefornia.mp3,hornpipe,
+215,214-2-46Liverpool.mp3,hornpipe,
+216,215-2-47Murphys.mp3,hornpipe,
+217,216-2-48Tarbolten.mp3,reel,
+218,217-2-49LongfordCollector.mp3,reel,
+219,219-01-Devanney's Goat.mp3,reel,
+220,220-02-Galway Rambler.mp3,reel,
+221,221-03-Last Night's Fun.mp3,reel,
+222,222-04-Mug of Brown Ale.mp3,jig,
+223,223-05-Leg of the Duck.mp3,jig,
+224,224-06-Munster Buttermilk.mp3,jig,
+225,225-07-McKeown's Polka.mp3,polka,
+226,226-08-Banks of Lough Gowna.mp3,jig,
+227,227-09-Gold Ring.mp3,jig,
+228,228-10-Tommy Mulhaire's.mp3,jig,
+229,229-11-Dick Sherlock's Reel.mp3,reel,
+230,230-12-The Morning Star.mp3,reel,
+231,231-13-Lady on the Island.mp3,reel,
+232,232-14-Derry Hornpipe.mp3,hornpipe,
+233,233-15-Kit O'Mahony's.mp3,hornpipe,
+234,234-16-The Galway Hornpipe.mp3,hornpipe,
+235,235-17-Johnny I Do Miss You.mp3,polka,
+236,236-18-Tripping to the Well.mp3,polka,
+237,237-19-Bill Sullivan's Polka.mp3,polka,
+238,238-20-Old Kilfenora Jig.mp3,jig,
+239,239-21-Club Ceili.mp3,jig,
+240,240-22-Jim Ward's.mp3,jig,
+241,241-23-George White's Favourite.mp3,reel,
+242,242-24-Boys of Malin.mp3,reel,
+243,243-25-Gravel Walk.mp3,reel,
+244,246-28-Tulla Polka.mp3,polka,
+245,247-29-Siege of Ennis.mp3,polka,
+246,248-30-Knockabower Polka.mp3,polka,
+247,249-31-Doon Reel.mp3,reel,
+248,250-32-Mountain Top.mp3,reel,
+249,251-33-Fred Finns.mp3,reel,
+250,252-34-Kathleen Hehir's Slide.mp3,slide,
+251,253-35-Merrily kiss the Quaker.mp3,slide,
+252,254-36-The Weaver's (O'Keefe's No. 2).mp3,slide,
+253,255-37-Around the Fairy Fort.mp3,barndance,
+254,256-38-The New Broom.mp3,barndance,
+255,257-39-If there Weren't Any Women in the World.mp3,barndance,
+256,258-40-Kinnegad Slashers.mp3,jig,
+257,259-41-Blackthorn Stick.mp3,jig,
+258,260-42-Scotsman Over the Border.mp3,jig,
+259,261-43-Old Blackthorn.mp3,reel,
+260,262-44-Mossy Banks.mp3,reel,
+261,263-45-Jim Donohue's.mp3,reel,
+262,264-46-Shandon Bells.mp3,jig,
+263,265-47-Father Kelly's.mp3,jig,
+264,266-48-I Buried my Wife & Danced on her Grave.mp3,jig,
+265,267-49-Farrel O'Gara.mp3,reel,
+266,268-50-O'Rourke's.mp3,reel,
+267,269-51-Irish Girl.mp3,reel,
+268,270-52-Christmas Eve.mp3,reel,
+269,271-53-Killavil Reel.mp3,reel,
+270,272-54-Boys of Ballysodare.mp3,reel,
+271,273-01-Austin Tierney's.mp3,reel,
+272,274-02-Rattigan's.mp3,reel,
+273,275-03-John Brennan's.mp3,reel,
+274,276-04-Paddy Clancy's.mp3,jig,
+275,277-05-Macho Snap's.mp3,jig,
+276,278-06-Paddy Taylor's.mp3,jig,
+277,279-07-Dick Gossip's.mp3,reel,
+278,280-08-Limestone Rock.mp3,reel,
+279,281-09-Boys of Ballinahinch.mp3,reel,
+280,282-10-Fairy Queen.mp3,hornpipe,
+281,283-11-Good Natured Man.mp3,hornpipe,
+282,284-12-Belfast Hornpipe.mp3,hornpipe,
+283,285-13-Micho Russel's Slide.mp3,slide,
+284,286-14-The Priest.mp3,slide,
+285,287-15-Cat's Rambles to the Child's Saucepan.mp3,slide,
+286,288-16-Joe Bane's Reel.mp3,reel,
+287,289-17-Lucy Campbell's.mp3,reel,
+288,290-18-The Boys of 45.mp3,reel,
+289,291-19-Top of the Maol.mp3,polka,
+290,294-22-Pigeon on the Gate.mp3,reel,
+291,295-23-Flogging Reel.mp3,reel,
+292,296-24-Tie the Bonnet.mp3,reel,
+293,297-25-Caileach an Airgead.mp3,jig,
+294,298-26-Bride's Favourite.mp3,jig,
+295,299-27-Julia Clifford's.mp3,jig,
+296,300-28-Holly Bush.mp3,reel,
+297,301-29-Fermoy Lasses.mp3,reel,
+298,302-30-Sporting Paddy.mp3,reel,
+299,303-31-Fanny Power.mp3,waltz,
+300,304-32-Si Beag Si Mor.mp3,waltz,
+301,305-33-Contentment is Wealth.mp3,jig,
+302,306-34-Father O'Flynn.mp3,jig,
+303,307-35-I Will if I Can.mp3,jig,
+304,308-36-Crowley's No. 1.mp3,reel,
+305,309-37-Crowley's No. 2.mp3,reel,
+306,310-38-Blackberry Blossom.mp3,reel,
+307,311-39-Keel Row Fling.mp3,fling,
+308,312-40-High Road to Linton.mp3,fling,
+309,313-41-Green grow the Rushes.mp3,fling,
+310,314-42-Mulqueen's Reel.mp3,reel,
+311,315-43-Little Bag of Spuds.mp3,reel,
+312,316-44-Charlie Harris's.mp3,reel,
+313,317-45-Kilfenora Slide.mp3,slide,
+314,318-46-John Joe's.mp3,slide,
+315,319-47-Stone of Destiny.mp3,reel,
+316,320-48-Road to Garrison.mp3,reel,
+317,321-49-Lurgadan Jig.mp3,jig,
+318,322-50-Mist Covered Mountains.mp3,jig,
+319,323-51-Eddie Moloney's Jig.mp3,jig,
+320,324-52-The Otter's Holt.mp3,reel,
+321,325-53-Music in the Glen.mp3,reel,
+322,326-54-The Virginia Reel.mp3,reel,
+323,cl535_10.mp3,reel,https://media.comhaltas.ie/video/cl535/cl535_10.mp4
+324,cl535_10.mp3,reel,https://media.comhaltas.ie/video/cl535/cl535_10.mp4
+325,cl535_3.mp3,reel,https://media.comhaltas.ie/video/cl535/cl535_3.mp4
+326,cl535_3.mp3,reel,https://media.comhaltas.ie/video/cl535/cl535_3.mp4
+327,cl533_15.mp3,reel,https://media.comhaltas.ie/video/cl533/cl533_15.mp4
+328,cl533_15.mp3,reel,https://media.comhaltas.ie/video/cl533/cl533_15.mp4
+329,cl533_15.mp3,reel,https://media.comhaltas.ie/video/cl533/cl533_15.mp4
+330,cl532_03.mp3,reel,https://media.comhaltas.ie/video/cl532/cl532_03.mp4
+331,cl531_2.mp3,jig,https://media.comhaltas.ie/video/cl531/cl531_2.mp4
+332,cl531_2.mp3,jig,https://media.comhaltas.ie/video/cl531/cl531_2.mp4
+333,cl529_14.mp3,reel,https://media.comhaltas.ie/video/cl529/cl529_14.mp4
+334,cl529_14.mp3,reel,https://media.comhaltas.ie/video/cl529/cl529_14.mp4
+335,cl529_11.mp3,jig,https://media.comhaltas.ie/video/cl529/cl529_11.mp4
+336,cl528_12.mp3,reel,https://media.comhaltas.ie/video/cl528/cl528_12.mp4
+337,cl528_12.mp3,reel,https://media.comhaltas.ie/video/cl528/cl528_12.mp4
+338,cl528_12.mp3,reel,https://media.comhaltas.ie/video/cl528/cl528_12.mp4
+339,cl527_10.mp3,reel,https://media.comhaltas.ie/video/cl527/cl527_10.mp4
+340,cl527_10.mp3,reel,https://media.comhaltas.ie/video/cl527/cl527_10.mp4
+341,cl525_12.mp3,jig,https://media.comhaltas.ie/video/cl525/cl525_12.mp4
+342,cl523_7.mp3,reel,https://media.comhaltas.ie/video/cl523/cl523_7.mp4
+343,cl523_7.mp3,reel,https://media.comhaltas.ie/video/cl523/cl523_7.mp4
+344,cl521_8.mp3,reel,https://media.comhaltas.ie/video/cl521/cl521_8.mp4
+345,cl521_8.mp3,reel,https://media.comhaltas.ie/video/cl521/cl521_8.mp4
+346,cl521_6.mp3,reel,https://media.comhaltas.ie/video/cl521/cl521_6.mp4
+347,cl521_6.mp3,reel,https://media.comhaltas.ie/video/cl521/cl521_6.mp4
+348,cl521_6.mp3,reel,https://media.comhaltas.ie/video/cl521/cl521_6.mp4
+349,cl517_2.mp3,jig,https://media.comhaltas.ie/video/cl517/cl517_2.mp4
+350,cl517_2.mp3,jig,https://media.comhaltas.ie/video/cl517/cl517_2.mp4
+351,cl517_2.mp3,jig,https://media.comhaltas.ie/video/cl517/cl517_2.mp4
+352,cl516_7.mp3,reel,https://media.comhaltas.ie/video/cl516/cl516_7.mp4
+353,cl516_7.mp3,reel,https://media.comhaltas.ie/video/cl516/cl516_7.mp4
+354,cl516_7.mp3,reel,https://media.comhaltas.ie/video/cl516/cl516_7.mp4
+355,cl456_10.mp3,jig,https://media.comhaltas.ie/video/cl456/cl456_10.mp4
+356,cl456_10.mp3,jig,https://media.comhaltas.ie/video/cl456/cl456_10.mp4
+357,cl453_5.mp3,hornpipe,https://media.comhaltas.ie/video/cl453/cl453_5.mp4
+358,cl452_9.mp3,jig,https://media.comhaltas.ie/video/cl452/cl452_9.mp4
+359,cl449_2.mp3,reel,https://media.comhaltas.ie/video/cl449/cl449_2.mp4
+360,cl449_2.mp3,reel,https://media.comhaltas.ie/video/cl449/cl449_2.mp4
+361,cl448_5.mp3,reel,https://media.comhaltas.ie/video/cl448/cl448_5.mp4
+362,cl448_4.mp3,reel,https://media.comhaltas.ie/video/cl448/cl448_4.mp4
+363,cl448_4.mp3,reel,https://media.comhaltas.ie/video/cl448/cl448_4.mp4
+364,cl441_5.mp3,reel,https://media.comhaltas.ie/video/cl441/cl441_5.mp4
+365,cl440_5.mp3,(hop) jig,https://media.comhaltas.ie/video/cl440/cl440_5.mp4
+366,cl440_5.mp3,(hop) jig,https://media.comhaltas.ie/video/cl440/cl440_5.mp4
+367,cl439_6.mp3,reel,https://media.comhaltas.ie/video/cl439/cl439_6.mp4
+368,cl439_6.mp3,reel,https://media.comhaltas.ie/video/cl439/cl439_6.mp4
+369,cl439_6.mp3,reel,https://media.comhaltas.ie/video/cl439/cl439_6.mp4
+370,cl439_3.mp3,hornpipe,https://media.comhaltas.ie/video/cl439/cl439_3.mp4
+371,cl439_3.mp3,reel,https://media.comhaltas.ie/video/cl439/cl439_3.mp4
+372,cl433_5.mp3,jig,https://media.comhaltas.ie/video/cl433/cl433_5.mp4
+373,cl433_4.mp3,reel,https://media.comhaltas.ie/video/cl433/cl433_4.mp4
+374,cl433_4.mp3,reel,https://media.comhaltas.ie/video/cl433/cl433_4.mp4
+375,cl432_9.mp3,reel,https://media.comhaltas.ie/video/cl432/cl432_9.mp4
+376,cl432_9.mp3,reel,https://media.comhaltas.ie/video/cl432/cl432_9.mp4
+377,cl432_7.mp3,jig,https://media.comhaltas.ie/video/cl432/cl432_7.mp4
+378,cl432_4.mp3,reel,https://media.comhaltas.ie/video/cl432/cl432_4.mp4
+379,cl432_3.mp3,jig,https://media.comhaltas.ie/video/cl432/cl432_3.mp4
+380,cl432_3.mp3,jig,https://media.comhaltas.ie/video/cl432/cl432_3.mp4
+381,cl432_1.mp3,reel,https://media.comhaltas.ie/video/cl432/cl432_1.mp4
+382,cl432_1.mp3,reel,https://media.comhaltas.ie/video/cl432/cl432_1.mp4
+383,cl426_7.mp3,reel,https://media.comhaltas.ie/video/cl426/cl426_7.mp4
+384,cl426_6.mp3,reel,https://media.comhaltas.ie/video/cl426/cl426_6.mp4
+385,cl426_4.mp3,reel,https://media.comhaltas.ie/video/cl426/cl426_4.mp4
+386,cl425_8.mp3,reel,https://media.comhaltas.ie/video/cl425/cl425_8.mp4
+387,cl425_8.mp3,reel,https://media.comhaltas.ie/video/cl425/cl425_8.mp4
+388,cl425_8.mp3,reel,https://media.comhaltas.ie/video/cl425/cl425_8.mp4
+389,cl423_4.mp3,hornpipe,https://media.comhaltas.ie/video/cl423/cl423_4.mp4
+390,cl421_7.mp3,reel,https://media.comhaltas.ie/video/cl421/cl421_7.mp4
+391,cl411_8.mp3,reel,https://media.comhaltas.ie/video/cl411/cl411_8.mp4
+392,cl407_2.mp3,reel,https://media.comhaltas.ie/video/cl407/cl407_2.mp4
+393,cl406_6.mp3,reel,https://media.comhaltas.ie/video/cl406/cl406_6.mp4
+394,cl406_2.mp3,reel,https://media.comhaltas.ie/video/cl406/cl406_2.mp4
+395,cl406_2.mp3,reel,https://media.comhaltas.ie/video/cl406/cl406_2.mp4
+396,cl404_2.mp3,reel,https://media.comhaltas.ie/video/cl404/cl404_2.mp4
+397,cl399_7.mp3,hornpipe,https://media.comhaltas.ie/video/cl399/cl399_7.mp4
+398,cl399_7.mp3,reel,https://media.comhaltas.ie/video/cl399/cl399_7.mp4
+399,cl395_6.mp3,reel,https://media.comhaltas.ie/video/cl395/cl395_6.mp4
+400,cl395_6.mp3,reel,https://media.comhaltas.ie/video/cl395/cl395_6.mp4
+401,cl395_6.mp3,reel,https://media.comhaltas.ie/video/cl395/cl395_6.mp4
+402,cl395_5.mp3,reel,https://media.comhaltas.ie/video/cl395/cl395_5.mp4
+403,cl395_5.mp3,reel,https://media.comhaltas.ie/video/cl395/cl395_5.mp4
+404,cl393_9.mp3,jig,https://media.comhaltas.ie/video/cl393/cl393_9.mp4
+405,cl393_9.mp3,jig,https://media.comhaltas.ie/video/cl393/cl393_9.mp4
+406,cl393_9.mp3,jig,https://media.comhaltas.ie/video/cl393/cl393_9.mp4
+407,cl389_2.mp3,reel,https://media.comhaltas.ie/video/cl389/cl389_2.mp4
+408,cl388_4.mp3,reel,https://media.comhaltas.ie/video/cl388/cl388_4.mp4
+409,cl388_1.mp3,jig,https://media.comhaltas.ie/video/cl388/cl388_1.mp4
+410,cl387_2.mp3,reel,https://media.comhaltas.ie/video/cl387/cl387_2.mp4
+411,cl377_8.mp3,reel,https://media.comhaltas.ie/video/cl377/cl377_8.mp4
+412,cl365_8.mp3,hornpipe,https://media.comhaltas.ie/video/cl365/cl365_8.mp4
+413,cl365_8.mp3,reel,https://media.comhaltas.ie/video/cl365/cl365_8.mp4
+414,cl364_1.mp3,reel,https://media.comhaltas.ie/video/cl364/cl364_1.mp4
+415,cl364_1.mp3,reel,https://media.comhaltas.ie/video/cl364/cl364_1.mp4
+416,cl363_1.mp3,reel,https://media.comhaltas.ie/video/cl363/cl363_1.mp4
+417,cl363_1.mp3,reel,https://media.comhaltas.ie/video/cl363/cl363_1.mp4
+418,cl362_2.mp3,reel,https://media.comhaltas.ie/video/cl362/cl362_2.mp4
+419,cl362_2.mp3,reel,https://media.comhaltas.ie/video/cl362/cl362_2.mp4
+420,cl361_10.mp3,reel,https://media.comhaltas.ie/video/cl361/cl361_10.mp4
+421,cl361_3.mp3,reel,https://media.comhaltas.ie/video/cl361/cl361_3.mp4
+422,cl361_2.mp3,reel,https://media.comhaltas.ie/video/cl361/cl361_2.mp4
+423,cl359_9.mp3,reel,https://media.comhaltas.ie/video/cl359/cl359_9.mp4
+424,cl346_6_64K.mp3,reel,https://media.comhaltas.ie/video/cl346/cl346_6_Med.mp4
+425,cl198_4Med.mp3,hornpipe,https://media.comhaltas.ie/video/cl198/cl198_4Med.mp4
+426,cl344_7_64K.mp3,reel,https://media.comhaltas.ie/video/cl344/cl344_7_Med.mp4
+427,cl344_7_64K.mp3,reel,https://media.comhaltas.ie/video/cl344/cl344_7_Med.mp4
+428,cl344_6_64K.mp3,reel,https://media.comhaltas.ie/video/cl344/cl344_6_Med.mp4
+429,cl342_5_64K.mp3,hornpipe,https://media.comhaltas.ie/video/cl342/cl342_5_Med.mp4
+430,cl342_5_64K.mp3,jig,https://media.comhaltas.ie/video/cl342/cl342_5_Med.mp4
+431,cl342_5_64K.mp3,reel,https://media.comhaltas.ie/video/cl342/cl342_5_Med.mp4
+432,cl342_2_64K.mp3,jig,https://media.comhaltas.ie/video/cl342/cl342_2_Med.mp4
+433,cl342_2_64K.mp3,jig,https://media.comhaltas.ie/video/cl342/cl342_2_Med.mp4
+434,cl342_1_64K.mp3,jig,https://media.comhaltas.ie/video/cl342/cl342_1_Med.mp4
+435,cl326_1_64K.mp3,jig,https://media.comhaltas.ie/video/cl326/cl326_1_Med.mp4
+436,cl324_7_64K.mp3,jig,https://media.comhaltas.ie/video/cl324/cl324_7_Med.mp4
+437,cl324_7_64K.mp3,jig,https://media.comhaltas.ie/video/cl324/cl324_7_Med.mp4
+438,cl322_7_64K.mp3,jig,https://media.comhaltas.ie/video/cl322/cl322_7_Med.mp4
+439,cl322_7_64K.mp3,jig,https://media.comhaltas.ie/video/cl322/cl322_7_Med.mp4
+440,cl307_2_64K.mp3,hornpipe,https://media.comhaltas.ie/video/cl307/cl307_2_Med.mp4
+441,cl303_5_64K.mp3,hornpipe,https://media.comhaltas.ie/video/cl303/cl303_5_Med.mp4
+442,cl300_3_64K.mp3,jig,https://media.comhaltas.ie/video/cl300/cl300_3_Med.mp4
+443,cl300_3_64K.mp3,jig,https://media.comhaltas.ie/video/cl300/cl300_3_Med.mp4
+444,197_2Med.mp3,slip jig,https://media.comhaltas.ie/video/cl197/197_2Med.mp4
+445,197_2Med.mp3,slip jig,https://media.comhaltas.ie/video/cl197/197_2Med.mp4
+446,197_2Med.mp3,slip jig,https://media.comhaltas.ie/video/cl197/197_2Med.mp4
+447,197_3Med.mp3,hornpipe,https://media.comhaltas.ie/video/cl197/197_3Med.mp4
+448,cl206_4Med.mp3,slide,https://media.comhaltas.ie/video/cl206/cl206_4Med.mp4
+449,cl215_6Med.mp3,slip jig,https://media.comhaltas.ie/video/cl215/cl215_6Med.mp4
+450,cl243_4_Med.mp3,slip jig,https://media.comhaltas.ie/video/cl243/cl243_4_Med.mp4
+451,cl243_4_Med.mp3,slip jig,https://media.comhaltas.ie/video/cl243/cl243_4_Med.mp4
+452,cl243_4_Med.mp3,slip jig,https://media.comhaltas.ie/video/cl243/cl243_4_Med.mp4
+453,cl262_1_Med.mp3,slide,https://media.comhaltas.ie/video/cl262/cl262_1_Med.mp4
+454,cl318_3_Med.mp3,slip jig,https://media.comhaltas.ie/video/cl318/cl318_3_Med.mp4
+455,cl342_6_Med.mp3,slip jig,https://media.comhaltas.ie/video/cl342/cl342_6_Med.mp4
+456,cl342_6_Med.mp3,slip jig,https://media.comhaltas.ie/video/cl342/cl342_6_Med.mp4
+457,cl409_1.mp3,hornpipe,https://media.comhaltas.ie/video/cl409/cl409_1.mp4
+458,cl411_7.mp3,slide,https://media.comhaltas.ie/video/cl411/cl411_7.mp4
+459,cl411_7.mp3,slide,https://media.comhaltas.ie/video/cl411/cl411_7.mp4
+460,cl411_9.mp3,hornpipe,https://media.comhaltas.ie/video/cl411/cl411_9.mp4
+461,cl411_9.mp3,hornpipe,https://media.comhaltas.ie/video/cl411/cl411_9.mp4
+462,cl412_5.mp3,hornpipe,https://media.comhaltas.ie/video/cl412/cl412_5.mp4
+463,cl412_5.mp3,hornpipe,https://media.comhaltas.ie/video/cl412/cl412_5.mp4
+464,cl414_6.mp3,slip jig,https://media.comhaltas.ie/video/cl414/cl414_6.mp4
+465,cl414_6.mp3,slip jig,https://media.comhaltas.ie/video/cl414/cl414_6.mp4
+466,cl414_8.mp3,slip jig,https://media.comhaltas.ie/video/cl414/cl414_8.mp4
+467,cl414_8.mp3,slip jig,https://media.comhaltas.ie/video/cl414/cl414_8.mp4
+468,cl425_10.mp3,hornpipe,https://media.comhaltas.ie/video/cl425/cl425_10.mp4
+469,cl429_4.mp3,hornpipe,https://media.comhaltas.ie/video/cl429/cl429_4.mp4
+470,cl436_3.mp3,hornpipe,https://media.comhaltas.ie/video/cl436/cl436_3.mp4
+471,cl442_8.mp3,hornpipe,https://media.comhaltas.ie/video/cl442/cl442_8.mp4
+472,cl444_3.mp3,hornpipe,https://media.comhaltas.ie/video/cl444/cl444_3.mp4
+473,cl451_9.mp3,hornpipe,https://media.comhaltas.ie/video/cl451/cl451_9.mp4
+474,cl452_2.mp3,hornpipe,https://media.comhaltas.ie/video/cl452/cl452_2.mp4
+475,cl508_9.mp3,barndance,https://media.comhaltas.ie/video/cl508/cl508_9.mp4
+476,cl533_12.mp3,slip jig,https://media.comhaltas.ie/video/cl533/cl533_12.mp4
+477,cl277_7_160K.mp3,jig,https://media.comhaltas.ie/video/cl277/cl277_7_Med.mp4
+478,cl541_1.mp3,hornpipe,https://media.comhaltas.ie/video/cl541/cl541_1.mp4
+479,cl542_12.mp3,hornpipe,https://media.comhaltas.ie/video/cl542/cl542_12.mp4
+480,cl543_8.mp3,hornpipe,https://media.comhaltas.ie/video/cl543/cl543_8.mp4
+481,cl520_12.mp3,waltz,https://media.comhaltas.ie/video/cl520/cl520_12.mp4
+482,cl449_6.mp3,hornpipe,https://media.comhaltas.ie/video/cl449/cl449_6.mp4
+483,cl376_6.mp3,slide,https://media.comhaltas.ie/video/cl376/cl376_6.mp4
+484,cl376_6.mp3,slide,https://media.comhaltas.ie/video/cl376/cl376_6.mp4
+485,cl343_7_Med.mp3,slide,https://media.comhaltas.ie/video/cl343/cl343_7_Med.mp4
+486,cl343_7_Med.mp3,slide,https://media.comhaltas.ie/video/cl343/cl343_7_Med.mp4
+487,cl343_7_Med.mp3,slide,https://media.comhaltas.ie/video/cl343/cl343_7_Med.mp4
+488,cl237_1_Med.mp3,fling,https://media.comhaltas.ie/video/cl237/cl237_1_Med.mp4
+489,cl237_1_Med.mp3,fling,https://media.comhaltas.ie/video/cl237/cl237_1_Med.mp4
+490,cl226_6_Med.mp3,highland,https://media.comhaltas.ie/video/cl226/cl226_6_Med.mp4
+491,cl226_6_Med.mp3,highland,https://media.comhaltas.ie/video/cl226/cl226_6_Med.mp4
+492,cl442_1.mp3,hornpipe,https://media.comhaltas.ie/video/cl442/cl442_1.mp4
+493,cl438_8.mp3,hornpipe,https://media.comhaltas.ie/video/cl438/cl438_8.mp4
+494,cl345_1_Med.mp3,slide,https://media.comhaltas.ie/video/cl345/cl345_1_Med.mp4
+495,cl345_1_Med.mp3,slide,https://media.comhaltas.ie/video/cl345/cl345_1_Med.mp4
+496,cl345_1_Med.mp3,slide,https://media.comhaltas.ie/video/cl345/cl345_1_Med.mp4
+497,cl468_9.mp3,mazurka,https://media.comhaltas.ie/video/cl468/cl468_9.mp4
+498,cl413_2.mp3,mazurka,https://media.comhaltas.ie/video/cl413/cl413_2.mp4
+499,yt1.mp3,waltz,https://www.youtube.com/watch?v=CiQhY5TCajI
+500,yt2.mp3,mazurka,https://www.youtube.com/watch?v=46q7Fk8_lyk
