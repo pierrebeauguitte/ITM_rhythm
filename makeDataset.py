@@ -116,7 +116,7 @@ def prepareSets(dataset, output, step = 50):
 
             print 'preparing %s - %s...' % (row['index'], row['file'])
 
-            s = getBarkSpec('../soundfiles/%s' % row['file'],
+            s = getBarkSpec('soundfiles/%s' % row['file'],
                             int(row['start']), int(row['end']))
             df = detectOnsets(s)
             macf = movingACF(df, step)
@@ -132,43 +132,5 @@ def prepareSets(dataset, output, step = 50):
             with open('%s/%03d.json' % (output, int(row['index'])), 'w') as outfile:
                 json.dump(hists, outfile)
 
-def prepareChunks(dataset, output, step = 50):
-
-    with open(dataset, 'r') as infile:
-        reader = csv.DictReader(infile)
-        for row in reader:
-
-            for t in range(1, 5):
-                
-                start = int(row['t%d' % t])
-                index = int(row['index'])
-                filename = '%s/%03d.%d.json' % (output, index, start)
-                
-                if os.path.isfile(filename):
-                    print 'skipping %s...' % (filename)
-                    continue
-                print 'preparing %s...' % (filename)
-                s = getBarkSpec('../soundfiles/%s' % row['file'],
-                                start, start + 12)
-                df = detectOnsets(s)
-                macf = movingACF(df, step)
-                if len(macf) != 15:
-                    print '\tSig length %d, nacf %d' % (len(df), len(macf))
-                hists = {}
-                pos = 0
-                for a in macf:
-                    fa = gaussian_filter1d(a,2)
-                    p, v = peakPicking(fa)
-                    qp = quantizePeaks(p, v)
-
-                    hists[pos] = qp
-                    pos += step
-                with open(filename, 'w') as outfile:
-                    json.dump(hists, outfile)
-
 if __name__ == '__main__':
-
-    if sys.argv[1] == 'tunes':
-        prepareSets('dataset.csv', 'data')
-    elif sys.argv[1] == 'chunks':
-        prepareChunks('dataset.csv', 'data_chunks')
+    prepareSets('dataset.csv', 'data')
